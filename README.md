@@ -1,6 +1,10 @@
 # Higher Lower Social Media Game
 This is a social media game where the quantity of followers for two celebrities are compared. 
+
+
 The aim of the game is to guess which celebrity has the most followers.
+
+
 Players get 1 point for each correct answer. 
 
 ## Objectives
